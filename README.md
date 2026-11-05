@@ -1,5 +1,5 @@
 # RBLX.BRAIN
 
-Windows executor interface builder.
+Roblox cheating AI interface.
 
 Download the latest Windows build from Releases.

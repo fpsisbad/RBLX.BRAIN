@@ -1,5 +1,5 @@
 # RBLX.BRAIN
 
-Roblox cheating AI interface.
+Roblox cheating AI app/website.
 
 Download the latest Windows build from Releases.
